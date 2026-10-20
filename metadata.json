@@ -1,0 +1,6 @@
+{
+  "name": "ReviewTap — Custom NFC & QR Google Review Cards",
+  "description": "Custom-branded NFC and QR Google Review cards, countertop stands, and multi-location business feedback solutions. Instant tap and scan review cards engineered for modern retail and hospitality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

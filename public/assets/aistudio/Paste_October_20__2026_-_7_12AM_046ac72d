@@ -1,0 +1,987 @@
+# MASTER PROMPT: BUILD A WORLD-CLASS NFC + QR REVIEW CARD E-COMMERCE WEBSITE
+
+Act as an elite product design studio, award-winning creative director, senior full-stack engineer, motion graphics artist, e-commerce architect, conversion-rate optimization specialist, and B2B growth strategist.
+
+Your task is to DESIGN AND BUILD a complete, premium, production-oriented e-commerce website for a company selling customizable NFC + QR Google Review cards, countertop review cards, review stands, and bulk-branded customer feedback products.
+
+Do not merely provide a plan, explanation, wireframe, or code snippets. Build the actual functioning website in the current Google AI Studio project. Inspect the existing project first, preserve useful working functionality, and implement the complete experience.
+
+The website must feel like a highly funded global technology brand with the quality of Apple product storytelling, Stripe-level clarity, premium Shopify commerce, and a sophisticated motion-design studio.
+
+The goal is a “$1 billion brand-quality experience”: exceptionally polished, memorable, trustworthy, fast, accessible, and commercially effective. This describes the design ambition, not a claim about company valuation.
+
+Use a coherent design system and make every page feel like part of the same premium brand.
+
+---
+
+# 1. BRAND AND PRODUCT POSITIONING
+
+Build a memorable brand for customizable NFC + QR review products.
+
+Use the temporary brand name “ReviewTap” and keep it configurable from one central settings file so the owner can rename it later.
+
+Suggested tagline:
+“Your Feedback Makes Us Better.”
+
+Core brand promise:
+“Turn every customer interaction into an effortless opportunity to share honest feedback.”
+
+Core products:
+- NFC + QR review cards.
+- Custom-branded Google Review cards.
+- Countertop review cards.
+- Acrylic countertop stands.
+- Premium matte and gloss cards.
+- Custom colour and logo cards.
+- Multi-location business card sets.
+- Bulk orders for agencies, franchises, and chains.
+- White-label products for resellers.
+- Custom review signage and desk displays.
+
+Target customers:
+Restaurants, cafés, hotels, salons, clinics, jewellery stores, retail shops, service businesses, agencies, franchises, and enterprise brands.
+
+Primary markets:
+India first, with architecture that can support international sales later.
+
+Currency:
+INR (₹), with all prices editable by the administrator. Never invent real supplier costs or claim verified market prices. Mark launch prices as configurable sample values until confirmed.
+
+---
+
+# 2. VISUAL IDENTITY AND ART DIRECTION
+
+Create a sophisticated visual system that avoids generic AI-generated aesthetics, cheap marketplace styling, excessive gradients, and template-like layouts.
+
+Design direction:
+- Premium editorial typography.
+- Bold oversized headlines.
+- Confident whitespace.
+- Beautiful product photography.
+- Refined rounded geometry.
+- Rich but controlled colour.
+- High-contrast readable text.
+- Sophisticated motion and tactile interaction.
+- Strong art direction with realistic product materials.
+
+Brand palette:
+- Warm ivory: #F8F6F0.
+- Deep forest green: #123B2B.
+- Electric cobalt: #2864F0.
+- Rich violet: #7556E8.
+- Citrus yellow: #FFD447.
+- Charcoal: #17191D.
+- Pure white: #FFFFFF.
+
+Use colours intentionally rather than displaying every colour everywhere.
+
+Create light and dark product collections:
+1. Lavender and purple.
+2. Sky blue and white.
+3. Mint green and forest green.
+4. Peach and coral.
+5. Cream and citrus.
+6. Black and gold.
+7. Navy and electric blue.
+8. Fully custom brand colours.
+
+Typography:
+Use a premium modern sans-serif such as Inter, Manrope, or a properly licensed alternative. Use a distinctive display weight for hero headings and highly legible typography for product details.
+
+Create a professional design system with reusable buttons, cards, navigation, product tiles, modals, forms, labels, toasts, loading states, and responsive layouts.
+
+Do not imitate another company's exact website. Create an original brand identity.
+
+---
+
+# 3. CINEMATIC HOMEPAGE
+
+Create a stunning, full-width homepage with polished motion graphics.
+
+## Announcement bar
+Show a configurable announcement such as:
+“Custom-branded NFC review cards | Bulk orders welcome.”
+
+Include an optional dismiss control and a configurable offer or shipping message.
+
+## Navigation
+Build a clean, responsive sticky navigation bar containing:
+- Brand logo.
+- Shop.
+- Customise.
+- Bulk Orders.
+- How It Works.
+- Business Solutions.
+- About.
+- Search.
+- Account.
+- Cart with live item count.
+
+Use a mobile navigation drawer with excellent touch interactions.
+
+## Hero section
+
+Headline:
+“Make Every Review Effortless.”
+
+Supporting copy:
+“Premium NFC + QR review cards designed around your brand. One simple tap or scan takes customers directly to your review page.”
+
+Primary CTA:
+“Design Your Card”
+
+Secondary CTA:
+“Explore Collection”
+
+B2B CTA:
+“Get a Bulk Quote”
+
+Visual direction:
+Create a cinematic product showcase featuring several beautifully rendered NFC review cards floating gently in a refined studio environment. Use warm ivory and charcoal surroundings, realistic material reflections, subtle depth, soft shadows, and elegant lighting.
+
+Feature different card colours, including lavender, sky blue, mint, cream, and black-and-gold.
+
+Create a visual demonstration:
+1. A smartphone approaches an NFC card.
+2. A tasteful contactless pulse animation appears.
+3. A mobile review page appears.
+4. A second demonstration shows a QR code being scanned.
+5. The product rotates gently to reveal its finish and edges.
+
+Use original generated visual assets where needed, but never make an AI-generated QR code appear to be a working QR code. Use a real QR library for actual codes.
+
+Use scroll-triggered storytelling, subtle parallax, smooth transitions, and responsive motion. Respect reduced-motion preferences.
+
+Do not block the entire website behind a long intro animation.
+
+## Trust strip
+Use truthful, configurable benefits:
+- Custom branding.
+- NFC + QR access.
+- Bulk order support.
+- Personalised designs.
+- Business-ready products.
+
+Do not invent customer counts, ratings, testimonials, certifications, or delivery promises.
+
+## Product collection
+Display an elegant interactive collection with premium cards, colour variations, quick previews, product details, starting prices, and customisation entry points.
+
+Categories:
+- Best Sellers.
+- Minimal Collection.
+- Colour Pop Collection.
+- Luxury Collection.
+- Business Essentials.
+- Bulk & Enterprise.
+
+## Interactive product comparison
+Compare:
+- QR-only cards.
+- NFC + QR cards.
+- Countertop stands.
+- Premium custom-branded sets.
+
+Explain the actual differences without unsupported performance claims.
+
+## How it works
+Present a refined four-step animated sequence:
+1. Choose a product.
+2. Add your logo and colours.
+3. Connect your Google Review link.
+4. Approve your design and place your order.
+
+Clearly distinguish between design customisation, physical manufacturing, and programming the NFC chip.
+
+## Use-case storytelling
+Create visual sections for:
+- Restaurants and cafés.
+- Jewellery and retail stores.
+- Salons and spas.
+- Clinics and professional services.
+- Hotels and hospitality.
+- Agencies and multi-location brands.
+
+Each section should use appropriate product imagery and a relevant CTA.
+
+## Bulk orders feature
+Create a standout B2B section:
+“Your Brand. Every Location. One Seamless Experience.”
+
+Explain volume-based quotes, multiple location destinations, custom packaging, brand consistency, and reseller opportunities.
+
+CTA: “Request a Bulk Quote.”
+
+## Final conversion section
+Headline:
+“Ready to Make Reviews Easier?”
+
+Buttons:
+“Build Your Custom Card”
+“Talk About Bulk Orders”
+
+Finish with a premium footer containing product links, support, policies, contact details, social links, and newsletter signup.
+
+---
+
+# 4. PRODUCT CATALOGUE AND SHOPPING
+
+Implement a real product listing experience.
+
+Pages:
+- All Products.
+- Product Categories.
+- Search Results.
+- Product Details.
+- Cart.
+- Checkout.
+- Order Confirmation.
+- Order Tracking.
+
+Product filters:
+- Price.
+- Colour.
+- Material.
+- Product type.
+- Customisable.
+- NFC enabled.
+- QR enabled.
+- Bulk eligible.
+
+Product sorting:
+- Featured.
+- Price low to high.
+- Price high to low.
+- Newest.
+
+Product cards should include:
+- High-quality images.
+- Product name.
+- Price.
+- Available colour variants.
+- Customisation indicator.
+- Quick view.
+- Add to cart.
+- Favourite/wishlist action.
+
+Create detailed product pages with:
+- Product image gallery.
+- Realistic product mockups.
+- Colour swatches.
+- Front-view previews.
+- Size and material details.
+- NFC and QR explanation.
+- What's included.
+- Customisation controls.
+- Quantity selector.
+- Production lead time only when configured and verified.
+- Shipping estimate based on real configured shipping rules.
+- Related products.
+- FAQ.
+- Bulk-order alternative.
+
+Support mobile, tablet, and desktop layouts.
+
+---
+
+# 5. INTERACTIVE CARD CUSTOMISER — A CORE FEATURE
+
+Build a beautiful, functional visual editor that allows customers to customise their cards before purchasing.
+
+The editor should be a major differentiator of the business.
+
+## Customisation options
+
+Customers can:
+- Choose card shape and supported dimensions.
+- Select a colour theme.
+- Choose light or dark styling.
+- Select a layout.
+- Upload a business logo.
+- Enter a business name.
+- Enter a tagline.
+- Select typography from approved fonts.
+- Adjust supported colours.
+- Add a Google Review destination URL.
+- Choose NFC + QR or QR-only where available.
+- Preview the card front.
+- Choose a quantity.
+- Save a draft.
+- Reset to the original template.
+- Review and approve the final design.
+
+Provide ready-made professional templates:
+- Lavender Luxury.
+- Sky Blue Modern.
+- Mint Fresh.
+- Cream & Forest.
+- Black & Gold.
+- Navy Electric.
+- Minimal White.
+- Brand Match.
+
+## Visual editor layout
+
+Desktop:
+- Left panel: design tools.
+- Centre: large live product preview.
+- Right panel: configuration summary, quantity, and price.
+
+Mobile:
+- Full-width preview.
+- Compact expandable tool panels.
+- Fixed bottom action bar with price and continue button.
+
+## Preview functionality
+
+Changes to colours, text, template, and logo should update the preview immediately.
+
+Use a real editable rendering approach such as SVG, Canvas, or HTML/CSS. Keep elements aligned within the actual card dimensions.
+
+Include:
+- Zoom controls.
+- Front preview.
+- Safe-area and bleed guides.
+- Preview background switch.
+- Save draft.
+- Undo and redo if feasible.
+- Responsive layout.
+- Clear validation messages.
+
+Uploaded logos must be validated for file type and size. Provide an upload preview and remove option.
+
+Do not pretend a static image is a live editor. All advertised controls must work.
+
+## QR generation
+
+Implement actual QR generation using a maintained QR-code library.
+
+Customers can enter a valid destination URL and preview the generated code.
+
+Use a quiet zone and strong contrast. Do not place decorative content over QR modules.
+
+Provide a test action to open the destination and make clear that the final printed QR must be verified before production.
+
+The AI-generated decorative QR patterns used in marketing images must never be used as actual codes.
+
+## Print production
+
+Prepare a production export workflow:
+- Card size configurable, with 85.6 × 54 mm as the standard reference.
+- Safe margins.
+- Bleed settings.
+- High-resolution export.
+- Print artwork download where supported.
+- Logo asset handling.
+- Order design preview.
+- Admin approval before manufacturing where required.
+
+Do not claim an export is a professional print-ready PDF unless the file actually meets the configured dimensions, bleed, font, and resolution requirements.
+
+---
+
+# 6. MULTI-BUSINESS AND UNIQUE DESTINATION MANAGEMENT
+
+Many customers will operate multiple shops and want a different Google Review link for each location.
+
+Create a destination management feature.
+
+For example:
+- Business A → its own Google Review URL.
+- Business B → its own Google Review URL.
+- Branch 1 → its branch-specific URL.
+- Branch 2 → its branch-specific URL.
+
+Support:
+- One destination per card by default.
+- Multiple destinations for bulk and enterprise orders.
+- Optional human-readable card IDs.
+- QR code generation for each destination.
+- Matching NFC destination configuration.
+- A downloadable CSV containing card ID, location, destination URL, and fulfilment status.
+- Bulk import with validation and duplicate detection.
+- Destination testing before order approval.
+
+For cards that need to support later destination changes, implement managed redirect URLs using a secure backend. Each card should receive a unique redirect identifier, such as /r/{cardId}.
+
+The redirect service must:
+- Resolve only administrator-approved destination URLs.
+- Validate protocols and block unsafe destinations.
+- Prevent open redirects and injection attacks.
+- Allow destination updates only to authorised users.
+- Record minimal operational analytics.
+- Return a clear error if a destination is inactive.
+- Never expose admin controls publicly.
+
+Important:
+A single identical static QR code cannot automatically determine which business it belongs to. Use unique codes or unique managed redirect IDs per business/card unless the customer-selection experience is explicitly intended.
+
+NFC chips must be programmed separately with the intended destination. Generating a QR code does not program the NFC chip.
+
+The site must not claim NFC programming, physical manufacturing, or delivery has occurred merely because an order was submitted.
+
+---
+
+# 7. BULK ORDER AND ENTERPRISE PORTAL
+
+Build a dedicated bulk-order page designed for agencies, franchise operators, chains, and enterprise clients.
+
+Headline:
+“Scale Your Brand Across Every Counter.”
+
+Include:
+- Quantity selector.
+- Product selection.
+- Multiple destinations.
+- Logo upload.
+- Brand guideline upload.
+- Packaging preference.
+- Estimated price request.
+- Required delivery country and postal code.
+- Number of locations.
+- Optional delivery date request.
+- Business details.
+- Notes and specifications.
+- File attachments.
+- Quote request submission.
+- Quote status tracking for logged-in users.
+
+Quantity bands should be configurable by the administrator, for example:
+1–9, 10–24, 25–49, 50–99, 100–249, 250+.
+
+Never invent actual discounts. Display pricing only from configured pricing rules. If pricing has not been configured, show “Request a custom quote.”
+
+Implement quantity-based pricing calculations and show how pricing changes as quantities change.
+
+Support:
+- One design across many cards.
+- Different designs within one order.
+- Multiple branch-specific QR codes.
+- Multiple NFC destinations.
+- Repeat orders.
+- Reorder from previous orders.
+- Quote conversion to order.
+- Enterprise contact workflow.
+- Reseller/white-label enquiry.
+
+Bulk enquiries should be stored securely and accessible to the admin dashboard.
+
+---
+
+# 8. CART, CHECKOUT, AND PAYMENTS
+
+Build a complete commerce flow.
+
+Cart functionality:
+- Add and remove products.
+- Update quantities.
+- Edit customisation.
+- Display line items and totals.
+- Calculate discounts from configured rules.
+- Calculate shipping from configured rules.
+- Apply valid coupons.
+- Persist the cart appropriately.
+- Handle out-of-stock products.
+- Show order summaries clearly.
+
+Checkout:
+- Guest checkout.
+- Account checkout.
+- Customer name.
+- Email.
+- Phone.
+- Billing address.
+- Shipping address.
+- Indian PIN code validation.
+- Shipping option.
+- Order notes.
+- Custom artwork confirmation.
+- Terms and privacy acceptance.
+
+Support payment integration through a secure provider such as Razorpay, with payment keys stored server-side in environment variables.
+
+Use test mode until the merchant account is configured. Verify payment status on the backend using provider-supported signatures or webhooks.
+
+Never trust a frontend payment-success message alone.
+
+Support:
+- UPI where available through the provider.
+- Cards.
+- Net banking.
+- Supported wallets.
+- Cash on delivery only if explicitly enabled by the administrator.
+
+Handle:
+- Pending payments.
+- Failed payments.
+- Successful payments.
+- Duplicate webhook events.
+- Refund status.
+- Order cancellation rules.
+
+Never store card numbers, CVVs, or sensitive payment credentials in the application database.
+
+If credentials are unavailable, build a clearly labelled test integration and configuration screen rather than falsely claiming live payments work.
+
+---
+
+# 9. CUSTOMER ACCOUNT AND ORDER EXPERIENCE
+
+Create a customer account portal with:
+- Profile.
+- Saved addresses.
+- Orders.
+- Order details.
+- Order tracking.
+- Saved custom designs.
+- Favourite products.
+- Bulk quotes.
+- Invoice access.
+- Repeat order.
+- Support requests.
+- Notification preferences.
+
+Order statuses:
+- Order received.
+- Artwork pending.
+- Artwork approved.
+- Production queued.
+- Manufacturing.
+- Quality check.
+- Ready to dispatch.
+- Shipped.
+- Delivered.
+- Cancelled or refunded, when applicable.
+
+Only allow status transitions authorised by the backend or administrator.
+
+Show a beautiful progress timeline and clearly explain that manufacturing and shipping updates depend on actual fulfilment events.
+
+---
+
+# 10. ADMIN DASHBOARD
+
+Build a secure, responsive admin dashboard.
+
+Dashboard overview:
+- Orders.
+- Revenue from recorded paid orders.
+- Pending payments.
+- New quote requests.
+- Products.
+- Inventory.
+- Customers.
+- Custom design submissions.
+- Manufacturing queue.
+- Shipping and fulfilment.
+- Coupons.
+- Reviews and testimonials.
+- Analytics.
+- Settings.
+
+Product management:
+- Create and edit products.
+- Manage prices.
+- Upload images.
+- Set variants.
+- Manage stock.
+- Configure customisation options.
+- Enable or disable bulk pricing.
+- Set shipping classes.
+
+Order management:
+- View order details.
+- Approve artwork.
+- Update fulfilment status.
+- Add tracking information.
+- Download design files.
+- Export order data.
+- Manage cancellations and refunds.
+- View associated card IDs and destinations.
+
+Bulk management:
+- View quote requests.
+- Generate configurable quotes.
+- Manage quantity tiers.
+- Import destination CSV files.
+- Validate URLs.
+- Export card-level production sheets.
+
+Role-based permissions:
+- Owner.
+- Administrator.
+- Order manager.
+- Designer.
+- Fulfilment operator.
+
+Implement proper authentication and authorisation. Do not protect the admin dashboard merely by hiding its URL.
+
+---
+
+# 11. MOTION GRAPHICS AND MICRO-INTERACTIONS
+
+Motion must feel intentional, premium, and cinematic.
+
+Use an appropriate animation stack such as Framer Motion or Motion, selecting versions compatible with the project's framework.
+
+Implement:
+- Smooth page transitions.
+- Scroll-triggered reveals.
+- Staggered product entrance animations.
+- Card rotation on hover.
+- Gentle floating card mockups.
+- Animated NFC contactless waves.
+- A scan-frame animation around the QR preview.
+- Animated colour swatches.
+- Live preview transitions.
+- Sticky product details where useful.
+- Magnetic-style CTA interaction only if it remains accessible.
+- Subtle button feedback.
+- Cart drawer animation.
+- Loading skeletons.
+- Toast notifications.
+- Animated order timeline.
+- Bulk pricing transition.
+- A premium mobile menu transition.
+- Reduced-motion alternatives.
+
+Avoid:
+- Excessive parallax.
+- Motion that delays checkout.
+- Unnecessary custom cursors.
+- Constant movement behind text.
+- Heavy WebGL scenes that slow mobile devices.
+- Scroll hijacking.
+- Animations that make controls difficult to use.
+
+Performance is more important than visual effects.
+
+Use GPU-friendly transforms and opacity. Lazy-load below-the-fold images. Avoid layout shifts.
+
+---
+
+# 12. ADDITIONAL CONVERSION FEATURES
+
+Include:
+- Site-wide product search.
+- Product comparison.
+- Wishlist.
+- Recently viewed products.
+- Related products.
+- Configurable coupon system.
+- Abandoned-cart support where consent and the chosen provider allow it.
+- Email order confirmations.
+- Artwork approval emails.
+- Quote confirmation emails.
+- Shipping notifications.
+- Contact form.
+- WhatsApp support link configured by the owner.
+- FAQ search.
+- Product care and setup instructions.
+- Reorder reminders where appropriate.
+- Newsletter opt-in.
+- Exit-intent offers only if tasteful, accessible, and configurable.
+- Honest shipping information.
+- Transparent pricing.
+- Clear returns, refunds, cancellation, and custom-order policies.
+- Customer support and complaint handling.
+- Bulk-order lead capture.
+- Referral or reseller programme as an optional feature.
+
+Do not invent reviews, scarcity, stock levels, countdowns, sales numbers, client logos, testimonials, or business claims.
+
+---
+
+# 13. BUSINESS CONTENT AND SEO
+
+Create all required pages:
+- Home.
+- Shop.
+- Product details.
+- Customiser.
+- Bulk orders.
+- Business solutions.
+- How it works.
+- About.
+- Contact.
+- FAQ.
+- Blog.
+- Shipping policy.
+- Returns and refunds.
+- Cancellation policy.
+- Privacy policy.
+- Terms and conditions.
+- Cookie settings.
+- Accessibility statement.
+- Order tracking.
+- Account.
+- Cart.
+- Checkout.
+
+Use SEO-friendly URLs, unique titles and descriptions, canonical URLs, Open Graph metadata, structured product data where accurate, sitemap, robots.txt, and appropriate image alt text.
+
+Create useful content around:
+- NFC review cards for businesses.
+- QR review cards for retail counters.
+- How to customise review cards.
+- NFC versus QR.
+- Managing review links across multiple locations.
+- Bulk-branded cards for agencies.
+- How customers can scan or tap a review card.
+
+Do not promise better Google rankings or guaranteed reviews. Avoid fake testimonials and misleading claims.
+
+Do not implement any incentive or gating flow that conditions customer benefits on leaving positive reviews. Customers should be able to give honest feedback freely.
+
+---
+
+# 14. ANALYTICS AND PRIVACY
+
+Implement privacy-conscious analytics integration points.
+
+Track useful events where configured:
+- Product views.
+- Search usage.
+- Customiser started.
+- Custom design saved.
+- Add to cart.
+- Checkout started.
+- Purchase confirmed.
+- Bulk quote requested.
+- Quote accepted.
+- Order fulfilled.
+
+Do not treat a checkout attempt as a confirmed purchase.
+
+Use consent controls where legally required. Collect only data necessary for the service. Provide cookie settings and a privacy policy consistent with actual data collection.
+
+Do not enable unnecessary third-party SDKs or tracking scripts by default.
+
+---
+
+# 15. TECHNICAL ARCHITECTURE
+
+First inspect the existing project and identify the current framework, file structure, dependencies, and working components.
+
+If starting from scratch, use a maintainable modern stack:
+- React.
+- TypeScript.
+- Vite or the existing compatible build framework.
+- Tailwind CSS or the project's existing design system.
+- Accessible reusable UI components.
+- Framer Motion or Motion for animation.
+- A maintained QR-code generation library.
+- A backend using Node.js and Express or an existing compatible server.
+- PostgreSQL for production-grade relational storage.
+- Secure object storage for product images and customer artwork.
+- A validated environment configuration.
+- Automated tests.
+
+Use the existing project stack when possible instead of replacing working code unnecessarily.
+
+Suggested modules:
+- Authentication.
+- Products.
+- Product variants.
+- Custom designs.
+- QR destinations.
+- NFC configuration.
+- Cart.
+- Orders.
+- Payments.
+- Bulk quotations.
+- Customers.
+- Inventory.
+- Fulfilment.
+- Notifications.
+- Admin.
+- Analytics.
+
+Design a database schema with appropriate primary keys, foreign keys, indexes, timestamps, and status constraints.
+
+Use database migrations and seed data for development. Seed data must be clearly identified as demonstration data.
+
+Implement:
+- Server-side input validation.
+- Parameterised database queries or a safe ORM.
+- Authentication and session security.
+- Rate limiting.
+- CSRF protection where applicable.
+- Secure file uploads.
+- Server-side price calculation.
+- Ownership checks.
+- Role-based access control.
+- Secure payment webhooks.
+- Error handling.
+- Structured logging without secrets.
+- Environment variable management.
+- Backup and recovery documentation.
+
+Never hardcode API keys, payment secrets, database passwords, or private tokens in frontend code.
+
+Do not invent a successful database connection, payment transaction, email delivery, or deployment if the integration has not been configured.
+
+---
+
+# 16. REQUIRED DATABASE ENTITIES
+
+Design the database for:
+- Users.
+- Roles and permissions.
+- Addresses.
+- Products.
+- Product variants.
+- Product images.
+- Inventory.
+- Price rules.
+- Bulk pricing tiers.
+- Custom design templates.
+- Saved designs.
+- Uploaded assets.
+- QR destinations.
+- Cards and card identifiers.
+- Business locations.
+- Cart items.
+- Orders.
+- Order items.
+- Payments.
+- Refunds.
+- Coupons.
+- Bulk quote requests.
+- Quote line items.
+- Manufacturing jobs.
+- Shipment records.
+- Notifications.
+- Support tickets.
+- Audit logs.
+- Consent records.
+
+Store only the data needed for each feature. Add access controls to sensitive records.
+
+Use versioned saved designs so an approved order retains the exact artwork and destinations that were approved at purchase time.
+
+---
+
+# 17. PERFORMANCE AND ACCESSIBILITY
+
+The website must:
+- Work beautifully on mobile first.
+- Support desktop and tablet.
+- Meet WCAG 2.2 AA accessibility goals.
+- Have keyboard navigation.
+- Use semantic HTML.
+- Have visible focus states.
+- Use accessible labels.
+- Support screen readers.
+- Provide meaningful alt text.
+- Maintain strong text contrast.
+- Respect reduced-motion preferences.
+- Avoid horizontal overflow.
+- Avoid console errors.
+- Optimise image formats and sizes.
+- Lazy-load images appropriately.
+- Use caching where suitable.
+- Keep checkout fast and uncomplicated.
+
+Aim for excellent Core Web Vitals and high Lighthouse scores. Verify the results rather than claiming a score that has not been measured.
+
+---
+
+# 18. TESTING AND DEFINITION OF DONE
+
+Do not stop after generating the homepage.
+
+Implement and verify the actual workflows:
+1. Browse products.
+2. Filter and search.
+3. Open a product.
+4. Change product options.
+5. Upload a logo.
+6. Change the card colour.
+7. Enter a destination URL.
+8. Generate and scan a genuine QR code.
+9. Save a custom design.
+10. Add an item to the cart.
+11. Update quantities.
+12. Calculate prices on the server.
+13. Submit a bulk quote.
+14. Create multiple location destinations.
+15. Submit a test order.
+16. Test payment failure and success flows in test mode.
+17. View order status.
+18. Sign in as an administrator.
+19. Manage products and orders.
+20. Export production data.
+
+Add automated tests for critical business logic, including pricing, permissions, redirects, QR destination validation, cart calculations, order state transitions, and payment webhook idempotency.
+
+Run the project's build, lint, and test commands. Fix the errors that can be resolved in the current environment.
+
+If any functionality requires credentials, a physical NFC writer, an external service, or merchant configuration, implement the integration point and clearly identify what remains to be configured.
+
+Do not simulate success for critical transactions.
+
+---
+
+# 19. IMPLEMENTATION PRIORITIES
+
+Build the complete experience in a sensible order:
+
+Phase 1:
+- Brand system.
+- Homepage.
+- Responsive navigation.
+- Product catalogue.
+- Product details.
+- Working cart.
+- Customiser with live preview.
+- Real QR generation.
+- Bulk enquiry form.
+
+Phase 2:
+- Backend.
+- Database.
+- Authentication.
+- Order creation.
+- Admin dashboard.
+- Destination management.
+- Design file storage.
+
+Phase 3:
+- Payment provider integration.
+- Email notifications.
+- Fulfilment workflow.
+- Shipping configuration.
+- Bulk CSV import and export.
+- Multi-location management.
+
+Phase 4:
+- Advanced motion graphics.
+- Analytics.
+- SEO.
+- Performance optimisation.
+- Accessibility review.
+- Automated testing.
+
+Implement the working core first, but make the architecture ready for the later phases.
+
+Do not create empty placeholder pages for major features while claiming the website is complete. If a feature cannot be implemented in the current environment, mark it clearly and provide a usable alternative.
+
+---
+
+# 20. FINAL CREATIVE DIRECTION
+
+The final website should feel like a premium international technology product company, not a local generic e-commerce template.
+
+Make the product the hero. Use memorable visuals, exceptional typography, beautiful card customisation, precise animations, and a clear path from discovery to purchase.
+
+The first screen must immediately communicate:
+- What the product is.
+- Why a business needs it.
+- How NFC and QR work.
+- How customers can customise it.
+- How bulk buyers can get a quote.
+
+Deliver a complete, cohesive website with clean architecture, reusable components, meaningful interactions, realistic product assets, robust validation, and an obvious path to production deployment.
+
+Begin by inspecting the current project. Then implement the website directly. Make sensible design and engineering decisions without repeatedly asking for approval. Prioritise functionality, visual quality, performance, security, accessibility, and real business value.
